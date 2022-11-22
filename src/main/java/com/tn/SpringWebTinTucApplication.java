@@ -10,4 +10,5 @@ public class SpringWebTinTucApplication {
         SpringApplication.run(SpringWebTinTucApplication.class, args);
     }
 
+
 }
